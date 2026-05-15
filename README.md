@@ -31,30 +31,113 @@
 
 <h2>App Preview</h2>
 
-<p align="center">
-  <i>(Click on the images to view them in full size)</i>
-</p>
+<h3 align="center">1. Authentication & Secure Access</h3>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%"><img src="link_register.png" width="220" alt="Registration Screen" /></td>
+    <td align="center" width="50%"><img src="link_login.png" width="220" alt="Login Screen" /></td>
+  </tr>
+  <tr>
+    <td align="center"><i>Registration interface allowing new users to create a secure account by providing their basic information.</i></td>
+    <td align="center"><i>The login screen for farmers who already have an existing account.</i></td>
+  </tr>
+</table>
 
-<table align="center">
+<br>
+
+<h3 align="center">2. Farmer Dashboard</h3>
+<table align="center" width="100%">
   <tr>
-    <td align="center"><b>Smart Dashboard</b></td>
-    <td align="center"><b>AI Crop Scanner</b></td>
-    <td align="center"><b>Diagnosis & Treatment</b></td>
+    <td align="center" width="50%"><img src="link_dashboard_top.png" width="220" alt="Dashboard Top" /></td>
+    <td align="center" width="50%"><img src="link_dashboard_bottom.png" width="220" alt="Dashboard Bottom" /></td>
   </tr>
   <tr>
-    <td><img src="link_to_your_dashboard_image.png" width="220" alt="Dashboard"/></td>
-    <td><img src="link_to_your_scan_crop_image.png" width="220" alt="Scanner"/></td>
-    <td><img src="link_to_your_results_image.png" width="220" alt="Results"/></td>
+    <td align="center"><i>Top of the home page showing real-time local weather and the main button to start a plant diagnosis.</i></td>
+    <td align="center"><i>Bottom of the home page showing recent scans and a card with daily plant insights.</i></td>
+  </tr>
+</table>
+
+<br>
+
+<h3 align="center">3. Conversational Virtual Assistant (AgriBot)</h3>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%"><img src="link_agribot_start.png" width="220" alt="AgriBot Start" /></td>
+    <td align="center" width="50%"><img src="link_agribot_chat.png" width="220" alt="AgriBot Active Chat" /></td>
   </tr>
   <tr>
-    <td align="center"><b>AgriBot Assistant</b></td>
-    <td align="center"><b>PlantWiki Library</b></td>
-    <td align="center"><b>User Profile & History</b></td>
+    <td align="center"><i>AgriBot start screen showing the welcome message, ready to assist the user.</i></td>
+    <td align="center"><i>Active conversation demonstrating the assistant understanding and replying perfectly in multiple languages.</i></td>
+  </tr>
+</table>
+
+<br>
+
+<h3 align="center">4. Agronomic Library & Tracking</h3>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%"><img src="link_wiki_search.png" width="220" alt="Library Search" /></td>
+    <td align="center" width="50%"><img src="link_wiki_detail.png" width="220" alt="Plant Detail" /></td>
   </tr>
   <tr>
-    <td><img src="link_to_your_agribot_image.png" width="220" alt="AgriBot Chat"/></td>
-    <td><img src="link_to_your_wiki_image.png" width="220" alt="Plant Wiki"/></td>
-    <td><img src="link_to_your_profile_image.png" width="220" alt="Profile Grid"/></td>
+    <td align="center"><i>Library search screen showing species matching the user's query (e.g., Watermelon).</i></td>
+    <td align="center"><i>Detailed plant card showing practical information and a button to save it to favorites.</i></td>
+  </tr>
+</table>
+
+<br>
+
+<h3 align="center">5. Personal Space & History</h3>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%"><img src="link_profile_scans.png" width="220" alt="Profile Scanned Tab" /></td>
+    <td align="center" width="50%"><img src="link_profile_wiki.png" width="220" alt="Profile Wiki Tab" /></td>
+  </tr>
+  <tr>
+    <td align="center"><i>First tab of the profile displaying a grid of all diseased plant photos the farmer has scanned and saved.</i></td>
+    <td align="center"><i>Second tab of the profile displaying the user's saved dictionary items from the PlantWiki.</i></td>
+  </tr>
+</table>
+
+<br>
+
+<h3 align="center">6. Settings & Customization</h3>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%"><img src="link_settings_top.png" width="220" alt="Settings Top" /></td>
+    <td align="center" width="50%"><img src="link_settings_bottom.png" width="220" alt="Settings Bottom" /></td>
+  </tr>
+  <tr>
+    <td align="center"><i>Top of the settings page allowing the user to easily customize their profile, photo, full name, and bio.</i></td>
+    <td align="center"><i>Security section requiring the current password for updates, alongside language and dark mode options.</i></td>
+  </tr>
+</table>
+
+<br>
+
+<h3 align="center">7. AI Phytosanitary Diagnostic Process</h3>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%"><img src="link_scan_menu.png" width="220" alt="Scan Menu" /></td>
+    <td align="center" width="50%"><img src="link_crop_tool.png" width="220" alt="Crop Tool" /></td>
+  </tr>
+  <tr>
+    <td align="center"><i>Scan menu giving the user the choice to take a live photo with the camera or import one from the gallery.</i></td>
+    <td align="center"><i>Cropping tool to isolate the infected area of the plant, preparing the image to ensure accurate AI analysis.</i></td>
+  </tr>
+</table>
+
+<br>
+
+<h3 align="center">8. Analysis Results & Treatment Plan</h3>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%"><img src="link_results_top.png" width="220" alt="Results Top" /></td>
+    <td align="center" width="50%"><img src="link_results_bottom.png" width="220" alt="Results Bottom" /></td>
+  </tr>
+  <tr>
+    <td align="center"><i>Top of the results page where the AI identifies the disease with 95% certainty and recalls basic plant needs.</i></td>
+    <td align="center"><i>Bottom of the results listing precise treatment actions and a space to ask follow-up questions directly to AgriBot.</i></td>
   </tr>
 </table>
 
